@@ -1,0 +1,47 @@
+.account-switcher {
+  background-color: #f5f5f5;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.account-switcher label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.account-selector {
+  width: 100%;
+  padding: 0.75rem;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: white;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.account-status {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+
+.account-info {
+  font-family: monospace;
+  background-color: #e9ecef;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+.checker-badge {
+  background-color: #4CAF50;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
