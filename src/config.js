@@ -1,7 +1,7 @@
 const config = {
   networks: {
     ganache: {
-      contractAddress: "0x6Ac68ea6020A46350351d38560e13FaD5665DDA4",
+      contractAddress: "0x9404C47F68fa4b782A6adff09c4Fb6c1F8962710",
       rpcUrl: "http://127.0.0.1:7545"
     },
     sepolia: {
